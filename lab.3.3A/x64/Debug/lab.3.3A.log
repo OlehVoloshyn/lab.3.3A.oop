@@ -1,0 +1,7 @@
+﻿  Source.cpp
+  UpMoney.cpp
+C:\Users\olegv\OneDrive\Робочий стіл\Lab ООП\lab3\lab.3.3A\lab.3.3A\UpMoney.cpp(54,24): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+C:\Users\olegv\OneDrive\Робочий стіл\Lab ООП\lab3\lab.3.3A\lab.3.3A\UpMoney.cpp(78,17): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+C:\Users\olegv\OneDrive\Робочий стіл\Lab ООП\lab3\lab.3.3A\lab.3.3A\UpMoney.cpp(80,19): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+  Создание кода...
+  lab.3.3A.vcxproj -> C:\Users\olegv\OneDrive\Робочий стіл\Lab ООП\lab3\lab.3.3A\x64\Debug\lab.3.3A.exe
